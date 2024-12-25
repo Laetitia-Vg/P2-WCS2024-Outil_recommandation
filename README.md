@@ -84,6 +84,11 @@ Lors de ce sprint nous avons réalisé notre dashboard avec les KPI pertinents q
 
 
 ## Sprint 3 : 
+Nous voilà à notre dernier sprint soit à la fin du projet.
+Comme indiqué lors de l'explication du premier sprint, nous avons choisi de faire nos recommandations de films dans l'intervalle des années 1990 à 2010, d'où notre nom : GenZ.
+Le client renseigne un nom de film (un morceau du titre fonctionne) l'algorithme de machine learning lui propose, en fonction des genres, de la note, du nombre de votes ainsi que la date de sortie, les 5 films les plus proches. Nous aurons sur notre interface streamlit, pour chaque film proposé, les informations suivantes : Titre, synopsis, note et date de sortie du film.
+
+Voici notre algorithme :
 
 Création des fonctions utiles pour les recommandations avec Machine learning : 
 ```python
