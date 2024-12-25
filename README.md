@@ -20,7 +20,13 @@ Nous avions un délai de 7 semaines que nous avons répartis en 3 sprint selon l
 
 # Déroulement de nos sprints :
 ## Sprint 1 : 
-Comme indiqué dans l'introduction, la première étape de notre projet a été de réaliser une étude de marché sur le cinéma dans la région de la Creuse. Lors de cette étude nous nous sommes rendus compte que la majorité de la population était âgée de plus de 40 ans. Nous avons donc choisi de cibler des films sortis entre 1990 et 2010 afin de remémorer à notre public creusois leurs plus belles années de jeunesse. 
+Comme indiqué dans l'introduction, la première étape de notre projet a été de réaliser une étude de marché sur le cinéma dans la région de la Creuse. Lors de cette étude nous nous sommes rendus compte que la majorité de la population était âgée de plus de 40 ans. Nous avons donc choisi de cibler des films sortis entre 1990 et 2010 afin de remémorer à notre public creusois leurs plus belles années de jeunesse.   
+
+Quelques exemples de notre étude de marché : 
+![Etude1](/Etude_marche1.png)
+![Etude2](/Etude_marche2.png)
+
+
 
 ## Sprint 2 : 
 Lors de ce second sprint, nous avons réalisé l'EDA de toutes les bases de données mises à notre disposition. Nous avons donc exploré, analysé, mergé et filtré nos dataframes pour nous approprier les données.
@@ -70,7 +76,14 @@ df_tmdb['Year'].value_counts()
     plt.ylabel("Nombre de films")
 
 ```
+Lors de ce sprint nous avons réalisé notre dashboard avec les KPI pertinents que nous avons choisi : 
 
+![Dashboard1](/Dashboard1.png)
+![Dashboard2](/Dashboard2.png)
+![Dashboard3](/Dashboard3.png)
+
+
+## Sprint 3 : 
 
 Création des fonctions utiles pour les recommandations avec Machine learning : 
 ```python
