@@ -1,3 +1,4 @@
+```python
 import streamlit as st
 import requests
 st.set_page_config(page_title="Gen Z", page_icon="/Users/Laetitia/Documents/Wild/Projet_2/KPI/logo_genz.png")
@@ -154,3 +155,4 @@ if movie_name:
             st.error("Erreur lors de la recherche de films")
     except Exception as e:
         st.error(f"Une erreur s'est produite : {e}")
+```
