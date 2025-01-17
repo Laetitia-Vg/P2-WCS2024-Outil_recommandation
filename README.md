@@ -161,4 +161,4 @@ else:
 ```
 
 # Collaboration 
-Projet mené en collaboration avec [@Guichounours](https://github.com/Guichounours)
+Projet mené en collaboration avec [@Guichounours](https://github.com/Guichounours) et [@RJ1781](https://github.com/RJ1781)
