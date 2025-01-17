@@ -160,3 +160,5 @@ else:
         print("Entrée invalide. Veuillez entrer un numéro d'index.")
 ```
 
+# Collaboration 
+Projet mené en collaboration avec [@Guichounours](https://github.com/Guichounours)
